@@ -1,0 +1,34 @@
+Johnny
+123 Main St
+Anytown, USA
+email: johndoe@email.com
+phone: (123) 456-7890
+
+Objective:
+To obtain a position in data analysis where I can utilize my skills in Python and SQL to analyze complex data sets and provide insights to drive business decisions.
+
+Education:
+Bachelor of Science in Mathematics, XYZ University, Anytown, USA (2015-2019)
+
+Skills:
+
+Proficient in Python and SQL for data analysis
+Experience with data visualization tools such as Tableau and Power BI
+Strong understanding of statistical concepts and data modeling techniques
+Familiarity with machine learning algorithms and data mining techniques
+Experience:
+Data Analyst, ABC Company, Anytown, USA (2019-present)
+
+Collect and analyze large data sets using Python and SQL
+Develop and implement data visualization tools to communicate insights to stakeholders
+Collaborate with cross-functional teams to identify opportunities for process improvement and drive business decisions
+Utilize statistical modeling techniques to forecast future trends and identify areas for optimization
+Intern, DEF Corporation, Anytown, USA (Summer 2018)
+
+Assisted with data collection and analysis for a customer satisfaction survey using SQL
+Developed and presented visualizations of survey results to senior management
+Conducted statistical analysis to identify significant trends and correlations in the data
+Certifications:
+
+Certified Data Analyst, XYZ Certification Program (2019)
+Python for Data Science, Coursera (2018)

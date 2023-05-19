@@ -1,0 +1,33 @@
+snoop dogg
+123 Main St.
+Anytown, USA 12345
+(123) 456-7890
+johndoe@email.com
+
+Objective:
+To obtain a position as a software developer.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, Anytown, USA
+Graduated May 2021
+
+Skills:
+- Proficient in AI, Java, and music
+- Familiar with machine learning algorithms and libraries
+- Experienced in working on Agile teams
+
+Work Experience:
+Software Developer
+ABC Company, Anytown, USA
+June 2021 - Present
+- Worked on developing and maintaining various web applications using Python and Django
+- Participated in code reviews and provided feedback to team members
+- Collaborated with other developers and project managers in an Agile environment
+
+Internship
+XYZ Company, Anytown, USA
+May 2020 - August 2020
+- Assisted in developing an inventory management system using Java and MySQL
+- Participated in daily stand-up meetings and sprint planning sessions
+- Gained experience in using Git and version control tools

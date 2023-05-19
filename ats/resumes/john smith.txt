@@ -1,0 +1,26 @@
+John Smith
+123 Main Street
+Anytown, USA 12345
+Phone: (123) 456-7890
+Email: john.smith@gmail.com
+
+Summary:
+Highly motivated software engineer with 5 years of experience developing and implementing cutting-edge software solutions. Proficient in Python , Java , and SQL . Skilled in data analysis and visualization. Excellent problem-solving and communication skills.
+
+Experience:
+Software Engineer, ABC Company
+June 2018 - Present
+
+Designed and developed a scalable data processing system using Python and Spark.
+Collaborated with cross-functional teams to identify and implement software solutions that increased efficiency and productivity.
+Led a team of 5 engineers to successfully complete a major project ahead of schedule.
+Software Engineer, XYZ Corporation
+June 2016 - May 2018
+
+Developed and maintained a Java-based application that processed over 1 million transactions daily.
+Worked with product managers to understand business requirements and translate them into technical specifications.
+Assisted with the design and implementation of a cloud-based infrastructure to improve system performance and reliability.
+Education:
+Bachelor of Science in Computer Science, Anytown University
+Graduated May 2016
+GPA: 3.9/5.0
