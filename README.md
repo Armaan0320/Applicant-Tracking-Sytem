@@ -1,7 +1,6 @@
 # Skill Scout
 
 Skill Scout is a powerful Applicant Tracking System (ATS) designed to streamline the hiring process and help organizations make data-driven hiring decisions. It provides a user-friendly interface for recruiters and hiring managers to efficiently manage candidate profiles, evaluate skills, and track the recruitment workflow.
-
 ## Key Features
 
 - **Automated Resume Parsing**: Extracts essential information from resumes and organizes it into a structured format for easy review.
@@ -35,4 +34,4 @@ We would like to express our gratitude to the open-source community for providin
 
 ## Contact
 
-For any inquiries or support, please email us at skillscout@example.com.
+For any inquiries or support, reach out to me :).
